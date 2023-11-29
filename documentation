@@ -1,0 +1,13 @@
+Background
+- what service did you choose? (provide URLs along with description of what it provides)
+For my service I chose Forex exchange rates from alphavantage.co. 
+This API returns the realtime exchange rate for a pair of digital currrency and physical currency.
+The parameters for this service is the exchange rates from either physical currency or digitial crypto currency. 
+This means, for example, I can get information from USD currency and return it to bitcoin currency or;
+I can get information from bitcoin currency and return to USD currency. 
+. https://www.alphavantage.co/documentation/
+- Deecribe how you are going to use the Web services in your Python application
+I think Im going to use this Web service to take the price of a U.S. product to return the price of the desired
+product in the desired country. These two desires will be specified by the user in my program.
+
+**Mirco => sounds good!
